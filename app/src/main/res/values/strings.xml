@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Railway Reservation</string>
+    <string name="pdf_information">You can travel on e-ticket sent on SMS or take a Virtual Reservation \nMessage (VRM) along with any one
+of the prescribed ID in original.\nPlease do not print the ERS unless extremely necessary.\nThis Ticket will be
+valid with an ID proof in original.\nPlease carry original identity proof. If found traveling without original ID
+\nproof, passenger will be treated as without ticket and charged as per \nextent Railway Rules.
+    \n\nOnly confirmed/Partially confirmed E-ticket is valid for travel.
+        \n\nValid IDs to be presented during train journey by one of the passenger \nbooked on an e-ticket :- Voter
+Identity Card / Passport / PAN Card / \nDriving License / Photo ID card issued by Central / State Govt / Public
+\nSector Undertakings of State / Central Government ,District \nAdministrations ,Municipal bodies and
+Panchayat Administrations \nwhich are having serial number / Student Identity Card with \nphotograph issued
+by recognized School or College.
+    </string>
+    <string name="last_name">Last Name</string>
+</resources>
